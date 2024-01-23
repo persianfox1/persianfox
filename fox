@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mysite</title>
+    <style>
+        /* استایل دکمه */
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 18px;
+            text-align: center;
+            background-color: #FF5C00;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+    </style>
+    <h1>Created By Mahan<h1/>
+    <p>دکمه مناطق محروم<p/>
+</head>
+<body>
+    <button class="button">دکمه</button>
+</body>                                                                                    
